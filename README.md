@@ -35,3 +35,4 @@ The analysis of the election show that:
 ## Challenge Overview
 
 ## Challenge Summary
+![Results_Summary](https://github.com/rptseng/Election_Analysis/blob/main/Resources/Results_Summary.PNG)
