@@ -15,7 +15,12 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 
 ## Summary
 The analysis of the election show that:
-- There were 369,711 cotes cast in the election.
+- There were 369,711 votes cast in the election.
+- The number of votes cast by county were:
+  - Jefferson with 10.5% of votes and 38,855 votes.
+  - Denver with 82.8% of votes and 306,055 votes.
+  - Arapahoe with 6.7% of votes and 24,801 votes.
+- Denver was the county with the largest voter turnout at 306,055 votes.
 - The candidates were:
   - Charles Casper Stockham
   - Diana DeGette
