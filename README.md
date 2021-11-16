@@ -33,6 +33,7 @@ The analysis of the election show that:
   - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
 ## Challenge Overview
+In order to use this code to process data from other elections, we could modify by creating a list of dictionaries rather than keep two separate dictionaries ("candidate_votes" and county_votes"). We would also be able to modify the f-string printouts written to the .txt file so that f"County Votes" and f"Largest County Turnout" are not hard-coded with the word "County" and instead substituted with a variable from the list of dictionaries. This would allow you to apply the code to express results for elections in other denominations than County, like a city, province, state, region etc.
 
 ## Challenge Summary
 ![Results_Summary](https://github.com/rptseng/Election_Analysis/blob/main/Resources/Results_Summary.PNG)
